@@ -3,9 +3,9 @@
 
 ## 🦸‍: About Me
 - 🏫 I'm a final year student of Jabalpur Engineering College
-- 🌱 And contributing to <a href="https://github.com/girlscript/winter-of-contributing" target="_blank">GSWOC</a> as a Supervisor for Backend with Java Domain
+- 🌱 And contributing to <a href="https://github.com/girlscript/winter-of-contributing" target="_blank">GWOC</a> as a Supervisor for Backend with Java Domain
 - 👨‍💼 Looking for Opportunities in Software Development
--  📫 Mail me at **kaushiksatyam54@gmail.com@gmail.com**
+-  📫 Mail me at **kaushiksatyam54@gmail.com**
 
 ## 🚀 Languages and Tools:
 
@@ -49,6 +49,7 @@
 
 <a href = "https://www.linkedin.com/in/satyam-kaushik-44b170191/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://Satyam175.github.io/"><img src="https://img.icons8.com/color/48/000000/dynamic-links.png"/></a>
+<a href = "https://covid-tracker-satyam-kaushik.herokuapp.com/"><img src="https://img.icons8.com/fluency/48/000000/project.png"/></a>
 </p>
 
 ## ❤ Views and Followers
