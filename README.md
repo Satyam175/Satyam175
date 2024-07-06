@@ -1,11 +1,11 @@
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Satyam!</h1>
-<h3 align="center">I'm a budding Java Spring Developer from India.</h3>
+<h3 align="center">I'm a budding Full Stack Developer specializing in Java, Spring, and React.</h3>
 
 ## 🦸‍: About Me
-- 🏫 I'm a final year student of Jabalpur Engineering College
-- 🌱 And contributing to <a href="https://github.com/girlscript/winter-of-contributing" target="_blank">GWOC</a> as a Supervisor for Backend with Java Domain
-- 👨‍💼 Looking for Opportunities in Software Development
--  📫 Mail me at **kaushiksatyam54@gmail.com**
+- 👨‍💻 Software Engineer at MediaRadar
+- 🌟 Previously worked at Urjanet as a Software Engineer
+- 📚 Graduated from Jabalpur Engineering College with a B.Tech in Mechanical Engineering
+- 📫 Reach me at **kaushiksatyam54@gmail.com**
 
 ## 🚀 Languages and Tools:
 
@@ -21,6 +21,9 @@
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="48" height="48"/> </a> 
+    <a href="https://www.docker.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/docker.png"/> </a> 
+    <a href="https://kubernetes.io/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/kubernetes.png"/> </a> 
+    <a href="https://www.elastic.co/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/elasticsearch.png"/> </a> 
 </p>
 
 <p align="center">
